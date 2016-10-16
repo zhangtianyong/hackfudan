@@ -1,0 +1,12 @@
+c:\users\wdy\documents\visual studio 2015\Projects\SteamVRServer\SteamVRServer\bin\Debug\SteamVRServer.exe.config
+c:\users\wdy\documents\visual studio 2015\Projects\SteamVRServer\SteamVRServer\bin\Debug\SteamVRServer.exe
+c:\users\wdy\documents\visual studio 2015\Projects\SteamVRServer\SteamVRServer\bin\Debug\SteamVRServer.pdb
+c:\users\wdy\documents\visual studio 2015\Projects\SteamVRServer\SteamVRServer\obj\Debug\SteamVRServer.csprojResolveAssemblyReference.cache
+c:\users\wdy\documents\visual studio 2015\Projects\SteamVRServer\SteamVRServer\obj\Debug\SteamVRServer.exe
+c:\users\wdy\documents\visual studio 2015\Projects\SteamVRServer\SteamVRServer\obj\Debug\SteamVRServer.pdb
+D:\Workspace\unity\SteamVRServer\SteamVRServer\bin\Debug\SteamVRServer.exe.config
+D:\Workspace\unity\SteamVRServer\SteamVRServer\obj\Debug\SteamVRServer.exe
+D:\Workspace\unity\SteamVRServer\SteamVRServer\obj\Debug\SteamVRServer.pdb
+D:\Workspace\unity\SteamVRServer\SteamVRServer\bin\Debug\SteamVRServer.exe
+D:\Workspace\unity\SteamVRServer\SteamVRServer\obj\Debug\SteamVRServer.csprojResolveAssemblyReference.cache
+D:\Workspace\unity\SteamVRServer\SteamVRServer\bin\Debug\SteamVRServer.pdb
